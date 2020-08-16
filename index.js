@@ -46,7 +46,7 @@ const fetchArticles = async () => {
   const articlesJSON = parser.toJson(articlesText);
   const newC = JSON.parse(articlesJSON).rss.channel.item.slice(0, 5);
 
-  console.log(newC.map(({ title, link }) => `[${title}](${link})`).join("\n"));
+  return newC.map(({ title, link }) => `[${title}](${link})`).join("\n");
 };
 
 async function main() {
