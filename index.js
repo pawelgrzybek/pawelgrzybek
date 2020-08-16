@@ -1,23 +1,12 @@
 const fs = require("fs");
 const { spawn } = require("child_process");
+const fetch = require("node-fetch");
 
-const title = "Hi y'all 👋";
-const description =
+const FEED_URL = "https://pawelgrzybek.com/feed.xml";
+const TITLE = "Hi y'all 👋";
+const DESCRIPTION =
   "I am a self-taught front-end developer looking for an opportunity to work with the latest web technologies. Coming from a background in photography, I have progressed through UI/UX design into front-end development with a growing interest in other bleeding edge technologies. Over time I have become strongly involved in the open-source community where I regularly contribute and create projects, frequently attend conferences and follow other liked-minded geeks. This enables me to always stay fresh in finding the best solutions for technical problems. When I’m not learning or working on another blog post, I indulge my passion for jazz and funk music that helps me to maintain a balance between my virtual and real life.";
-const titleMostRecentPostsSection = "Recent blog posts";
-
-const readme = `
-# ${title}
-
-${description}
-
-## ${titleMostRecentPostsSection}
-
-posts here
-
-`;
-
-fs.writeFileSync("./README.md", readme);
+const TITLE_MOST_RECENT_POSTS = "Recent blog posts";
 
 const exec = (cmd, args = []) =>
   new Promise((resolve, reject) => {
@@ -50,8 +39,30 @@ const commitFile = async () => {
   await exec("git", ["push"]);
 };
 
-try {
+const fetchArticles = async () => {
+  const articles = await fetch(FEED_URL).text();
+  console.log(articles);
+};
+
+async function main() {
+  const readme = `
+# ${TITLE}
+
+${DESCRIPTION}
+
+## ${TITLE_MOST_RECENT_POSTS}
+
+posts here
+
+`;
+
+  fs.writeFileSync("./README.md", readme);
+
   commitFile();
+}
+
+try {
+  main();
 } catch (error) {
-  console.error(error);
+  console.error(errors);
 }
