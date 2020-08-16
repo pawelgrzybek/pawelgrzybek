@@ -1,11 +1,11 @@
-name: Fetch recent blog posts
+name: Fetch recent blog posts 2
 on:
   schedule:
     - cron: "0 * * * *"
 
 jobs:
   fetch-recent-blog-posts:
-    name: Fetch recent blog posts
+    name: Fetch recent blog posts 2
     runs-on: ubuntu-latest
     steps:
       - name: Check out repository
