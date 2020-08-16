@@ -12,9 +12,41 @@ ${description}
 
 ## ${titleMostRecentPostsSection}
 
+posts here
+
 `;
 
-console.log(readme);
-// const readmeContent = fs.readFileSync("./README.md", "utf-8").split("\n");
+fs.writeFileSync("./README.md", readme);
 
-// console.log(`👉 readmeContent: ${readmeContent} 👈`);
+const exec = (cmd, args = []) =>
+  new Promise((resolve, reject) => {
+    const app = spawn(cmd, args, { stdio: "inherit" });
+    app.on("close", (code) => {
+      if (code !== 0) {
+        err = new Error(`Invalid status code: ${code}`);
+        err.code = code;
+        return reject(err);
+      }
+      return resolve(code);
+    });
+    app.on("error", reject);
+  });
+
+const commitFile = async () => {
+  await exec("git", [
+    "config",
+    "--global",
+    "user.email",
+    "readme-bot@example.com",
+  ]);
+  await exec("git", ["config", "--global", "user.name", "readme-bot"]);
+  await exec("git", ["add", "README.md"]);
+  await exec("git", [
+    "commit",
+    "-m",
+    ":zap: update readme with the recent activity",
+  ]);
+  await exec("git", ["push"]);
+};
+
+commitFile();
