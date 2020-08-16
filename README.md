@@ -18,5 +18,5 @@ I am a self-taught front-end developer looking for an opportunity to work with t
 
 Visit [https://pawelgrzybek.com](https://pawelgrzybek.com) to read more.
 
-Last update: Sun Aug 16 2020 20:47:30 GMT+0000 (Coordinated Universal Time)
+Last update: 2020.08.16
 
