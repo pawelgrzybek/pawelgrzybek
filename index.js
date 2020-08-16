@@ -43,8 +43,10 @@ const commitFile = async () => {
 const fetchArticles = async () => {
   const articles = await fetch(FEED_URL);
   const articlesText = await articles.text();
+  const articlesJSON = parser.toJson(articlesText);
+  const newC = JSON.parse(articlesJSON).rss.channel.item.slice(0, 5);
 
-  return parser.toJson(JSON.stringify(JSON.parse(articlesText), null, 4));
+  console.log(newC.map(({ title, link }) => `[${title}](${link})`).join("\n"));
 };
 
 async function main() {
@@ -57,7 +59,7 @@ ${DESCRIPTION}
 
 ## ${TITLE_MOST_RECENT_POSTS}
 
-posts here 5
+${posts}
 
 `;
 
