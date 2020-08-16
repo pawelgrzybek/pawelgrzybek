@@ -5,5 +5,5 @@ I am a self-taught front-end developer looking for an opportunity to work with t
 
 ## Recent blog posts
 
-posts here 5
+undefined
 
