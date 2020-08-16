@@ -1,0 +1,11 @@
+{
+  "name": "pawelgrzybek",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:pawelgrzybek/pawelgrzybek.git",
+  "author": "Pawel Grzybek <pawelgrzybek@users.noreply.github.com>",
+  "license": "MIT",
+  "scripts": {
+    "run": "node index.js"
+  }
+}
