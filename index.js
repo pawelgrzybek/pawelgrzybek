@@ -55,6 +55,8 @@ async function main() {
   const readme = `
 # ${TITLE}
 
+![Fetch recent blog posts](https://github.com/pawelgrzybek/pawelgrzybek/workflows/Fetch%20recent%20blog%20posts/badge.svg)
+
 ${DESCRIPTION}
 
 ## ${TITLE_MOST_RECENT_POSTS}
