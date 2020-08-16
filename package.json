@@ -9,6 +9,7 @@
     "build": "node index.js"
   },
   "dependencies": {
-    "node-fetch": "^2.6.0"
+    "node-fetch": "^2.6.0",
+    "xml2json": "^0.12.0"
   }
 }
