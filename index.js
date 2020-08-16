@@ -61,6 +61,8 @@ ${DESCRIPTION}
 
 ${posts}
 
+Visit [https://pawelgrzybek.com](https://pawelgrzybek.com) to read more.
+
 `;
 
   fs.writeFileSync("./README.md", readme);
