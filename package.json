@@ -6,6 +6,6 @@
   "author": "Pawel Grzybek <pawelgrzybek@users.noreply.github.com>",
   "license": "MIT",
   "scripts": {
-    "run": "node index.js"
+    "build": "node index.js"
   }
 }

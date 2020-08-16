@@ -1,9 +1,9 @@
-name: Fetch recent blog posts 2
+name: Fetch recent blog posts top title
 on: push
 
 jobs:
   fetch-recent-blog-posts:
-    name: Fetch recent blog posts 2
+    name: Fetch recent blog posts on jobs level
     runs-on: ubuntu-latest
     steps:
       - name: Check out repository
