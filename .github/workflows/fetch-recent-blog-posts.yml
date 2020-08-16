@@ -22,4 +22,4 @@ jobs:
       - name: Git setup
         run: git config --global user.email readme-bot@example.com && git config --global user.name readme-bot
       - name: Git commit README.md file
-        run: git add README.md && git commit -m "[BOT] Update readme"
+        run: git add README.md && git commit -m "[BOT] Update readme" && git push
