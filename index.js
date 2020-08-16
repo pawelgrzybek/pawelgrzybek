@@ -1,4 +1,5 @@
 const fs = require("fs");
+const { spawn } = require("child_process");
 
 const title = "Hi y'all 👋";
 const description =
@@ -49,4 +50,8 @@ const commitFile = async () => {
   await exec("git", ["push"]);
 };
 
-commitFile();
+try {
+  commitFile();
+} catch (error) {
+  console.error(error);
+}
