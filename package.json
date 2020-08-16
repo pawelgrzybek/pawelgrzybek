@@ -5,8 +5,9 @@
   "repository": "git@github.com:pawelgrzybek/pawelgrzybek.git",
   "author": "Pawel Grzybek <pawelgrzybek@users.noreply.github.com>",
   "license": "MIT",
+  "type": "module",
   "scripts": {
-    "build": "node index.js"
+    "build": "node --experimental-modules index.js"
   },
   "dependencies": {
     "node-fetch": "^2.6.0",

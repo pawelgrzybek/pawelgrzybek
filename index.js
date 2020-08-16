@@ -1,24 +1,10 @@
-const fs = require("fs");
-const { spawn } = require("child_process");
-const fetch = require("node-fetch");
-const parser = require("xml2json");
+import fs from "fs";
+import fetch from "node-fetch";
+import parser from "xml2json";
 
 const FEED_URL = "https://pawelgrzybek.com/feed.xml";
-const TITLE = "Hi y'all 👋";
-const DESCRIPTION =
-  "I am a self-taught front-end developer looking for an opportunity to work with the latest web technologies. Coming from a background in photography, I have progressed through UI/UX design into front-end development with a growing interest in other bleeding edge technologies. Over time I have become strongly involved in the open-source community where I regularly contribute and create projects, frequently attend conferences and follow other liked-minded geeks. This enables me to always stay fresh in finding the best solutions for technical problems. When I’m not learning or working on another blog post, I indulge my passion for jazz and funk music that helps me to maintain a balance between my virtual and real life.";
-const TITLE_MOST_RECENT_POSTS = "Recent blog posts";
-
-const pad = (v) => v.toString().padStart(2, "0");
-
-const getDateFormatted = () => {
-  const now = new Date();
-  const year = now.getFullYear();
-  const month = now.getMonth() + 1;
-  const day = now.getDate();
-
-  return `${year}.${pad(month)}.${pad(day)}`;
-};
+const TAG_OPEN = `<!-- FEED-START -->`;
+const TAG_CLOSE = `<!-- FEED-END -->`;
 
 const fetchArticles = async () => {
   const articles = await fetch(FEED_URL);
@@ -30,35 +16,25 @@ const fetchArticles = async () => {
 };
 
 async function main() {
+  const readme = fs.readFileSync("./README.md", "utf8");
+  const indexBefore = readme.indexOf(TAG_OPEN) + TAG_OPEN.length;
+  const indexAfter = readme.indexOf(TAG_CLOSE);
+  const readmeContentChunkBreakBefore = readme.substring(0, indexBefore);
+  const readmeContentChunkBreakAfter = readme.substring(indexAfter);
+
   const posts = await fetchArticles();
 
-  const readme = `
-# ${TITLE}
-
-![Fetch recent blog posts](https://github.com/pawelgrzybek/pawelgrzybek/workflows/Fetch%20recent%20blog%20posts/badge.svg)
-
-${DESCRIPTION}
-
-## ${TITLE_MOST_RECENT_POSTS}
-
-<!-- FEED-START -->
-<!-- FEED-END -->
-
+  const readmeNew = `
+${readmeContentChunkBreakBefore}
 ${posts}
-
-Visit [https://pawelgrzybek.com](https://pawelgrzybek.com) to read more.
-
-Last update: ${getDateFormatted()}
-
+${readmeContentChunkBreakAfter}
 `;
 
-  fs.writeFileSync("./README.md", readme);
-
-  // commitFile();
+  fs.writeFileSync("./README.md", readmeNew.trim());
 }
 
 try {
   main();
 } catch (error) {
-  console.error(errors);
+  console.error(error);
 }
