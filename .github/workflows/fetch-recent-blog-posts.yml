@@ -20,6 +20,6 @@ jobs:
       - name: Run node script
         run: yarn build
       - name: Git setup
-        run: git --global user.email readme-bot@example.com && git --global user.name readme-bot
+        run: git config --global user.email readme-bot@example.com && git config --global user.name readme-bot
       - name: Git commit README.md file
         run: git add README.md && git commit -m "[BOT] Update readme"
