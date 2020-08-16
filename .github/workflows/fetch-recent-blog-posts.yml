@@ -8,10 +8,10 @@ jobs:
     name: Fetch recent blog posts
     runs-on: ubuntu-latest
     steps:
-      - name : Setup node
+      - name: Setup node
         uses: actions/setup-node@v1
-          with:
-            node-version: 12.x
+        with:
+          node-version: 12.x
       - name: Check out repository
         uses: actions/checkout@v2
       - name: Run node script
