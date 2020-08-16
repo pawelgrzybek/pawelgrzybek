@@ -1,6 +1,7 @@
 const fs = require("fs");
 const { spawn } = require("child_process");
 const fetch = require("node-fetch");
+const parser = require("xml2json");
 
 const FEED_URL = "https://pawelgrzybek.com/feed.xml";
 const TITLE = "Hi y'all 👋";
@@ -40,8 +41,10 @@ const commitFile = async () => {
 };
 
 const fetchArticles = async () => {
-  const articles = await fetch(FEED_URL).text();
-  console.log(articles);
+  const articles = await fetch(FEED_URL);
+  const articlesText = await articles.text();
+
+  return parser.toJson(articlesText);
 };
 
 async function main() {
