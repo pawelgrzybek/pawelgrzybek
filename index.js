@@ -44,7 +44,7 @@ const fetchArticles = async () => {
   const articles = await fetch(FEED_URL);
   const articlesText = await articles.text();
 
-  return parser.toJson(articlesText);
+  return parser.toJson(JSON.stringify(JSON.parse(articlesText), null, 4));
 };
 
 async function main() {
