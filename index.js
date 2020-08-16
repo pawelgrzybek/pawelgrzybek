@@ -45,6 +45,8 @@ const fetchArticles = async () => {
 };
 
 async function main() {
+  const posts = await fetchArticles();
+  console.log(posts);
   const readme = `
 # ${TITLE}
 
@@ -52,7 +54,7 @@ ${DESCRIPTION}
 
 ## ${TITLE_MOST_RECENT_POSTS}
 
-posts here
+posts here 5
 
 `;
 
