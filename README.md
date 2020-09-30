@@ -7,9 +7,9 @@ I am a self-taught developer looking for an opportunity to make the web a better
 ## Recent blog posts
 
 <!-- FEED-START -->
+- [Top picks — 2020 September](https://pawelgrzybek.com/top-picks-2020-september/)
 - [Multi-paragraph git commit messages (CLI and Visual Studio Code)](https://pawelgrzybek.com/multi-paragraph-git-commit-messages-cli-and-visual-studio-code/)
 - [Book review: Beastie Boys Book by Michael Diamond and Adam Horovitz](https://pawelgrzybek.com/book-review-beastie-boys-book-by-michael-diamond-and-adam-horovitz/)
 - [Top picks — 2020 August](https://pawelgrzybek.com/top-picks-2020-august/)
 - [Fetch most recent posts to your GitHub profile page using GitHub workflow and Node.js](https://pawelgrzybek.com/fetch-most-recent-posts-to-your-github-profile-page-using-github-workflow-and-node-js/)
-- [Multiple SSH keys for multiple Bitbucket/GitHub accounts](https://pawelgrzybek.com/multiple-ssh-keys-for-multiple-bitbucket-github-accounts/)
 <!-- FEED-END -->
