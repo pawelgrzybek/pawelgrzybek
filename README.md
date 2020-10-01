@@ -7,9 +7,9 @@ I am a self-taught developer looking for an opportunity to make the web a better
 ## Recent blog posts
 
 <!-- FEED-START -->
-- [Multiple SSH keys for multiple Bitbucket/GitHub accounts](https://pawelgrzybek.com/multiple-ssh-keys-for-multiple-bitbucket-github-accounts/)
-- [Book review: The Fast 800: How to Combine Rapid Weight Loss and Intermittent Fasting for Long-Term Health by Dr Michael Mosley](https://pawelgrzybek.com/book-review-the-fast-800-how-to-combine-rapid-weight-loss-and-intermittent-fasting-for-long-term-health-by-dr-michael-mosley/)
-- [Execute a shell command inside a Docker container (3 methods)](https://pawelgrzybek.com/execute-a-shell-command-inside-a-docker-container-3-methods/)
-- [Top picks — 2020 July](https://pawelgrzybek.com/top-picks-2020-july/)
-- [The IP address, subnet mask and CIDR notation](https://pawelgrzybek.com/the-ip-address-subnet-mask-and-cidr-notation/)
+- [Top picks — 2020 September](https://pawelgrzybek.com/top-picks-2020-september/)
+- [Multi-paragraph git commit messages (CLI and Visual Studio Code)](https://pawelgrzybek.com/multi-paragraph-git-commit-messages-cli-and-visual-studio-code/)
+- [Book review: Beastie Boys Book by Michael Diamond and Adam Horovitz](https://pawelgrzybek.com/book-review-beastie-boys-book-by-michael-diamond-and-adam-horovitz/)
+- [Top picks — 2020 August](https://pawelgrzybek.com/top-picks-2020-august/)
+- [Fetch most recent posts to your GitHub profile page using GitHub workflow and Node.js](https://pawelgrzybek.com/fetch-most-recent-posts-to-your-github-profile-page-using-github-workflow-and-node-js/)
 <!-- FEED-END -->
