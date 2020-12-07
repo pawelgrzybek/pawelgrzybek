@@ -7,9 +7,9 @@ I am a self-taught developer looking for an opportunity to make the web a better
 ## Recent blog posts
 
 <!-- FEED-START -->
+- [Book review: We Need To Talk About Love by Laura Mucha](https://pawelgrzybek.com/book-review-we-need-to-talk-about-love-by-laura-mucha/)
 - [Top picks — 2020 November](https://pawelgrzybek.com/top-picks-2020-november/)
 - [React to localStorage changes in the context of another document](https://pawelgrzybek.com/react-to-localstorage-changes-in-the-context-of-another-document/)
 - [Top picks — 2020 October](https://pawelgrzybek.com/top-picks-2020-october/)
 - [Book review: Rich Dad Poor Dad by Robert T. Kiyosaki](https://pawelgrzybek.com/book-review-rich-dad-poor-dad-by-robert-t-kiyosaki/)
-- [Book review: How to be a Productivity Ninja by Graham Allcott](https://pawelgrzybek.com/book-review-how-to-be-a-productivity-ninja-by-graham-allcott/)
 <!-- FEED-END -->
