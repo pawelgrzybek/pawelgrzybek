@@ -7,9 +7,9 @@ I am a self-taught developer looking for an opportunity to make the web a better
 ## Recent blog posts
 
 <!-- FEED-START -->
+- [Client-Side Rendering, Server-Side Rendering and Static-Site Generation of Next.js applications explained](https://pawelgrzybek.com/client-side-rendering-server-side-rendering-and-static-site-generation-of-nextjs-applications-explained/)
 - [Book review: We Need To Talk About Love by Laura Mucha](https://pawelgrzybek.com/book-review-we-need-to-talk-about-love-by-laura-mucha/)
 - [Top picks — 2020 November](https://pawelgrzybek.com/top-picks-2020-november/)
 - [React to localStorage changes in the context of another document](https://pawelgrzybek.com/react-to-localstorage-changes-in-the-context-of-another-document/)
 - [Top picks — 2020 October](https://pawelgrzybek.com/top-picks-2020-october/)
-- [Book review: Rich Dad Poor Dad by Robert T. Kiyosaki](https://pawelgrzybek.com/book-review-rich-dad-poor-dad-by-robert-t-kiyosaki/)
 <!-- FEED-END -->
