@@ -7,9 +7,9 @@ I am a self-taught developer looking for an opportunity to make the web a better
 ## Recent blog posts
 
 <!-- FEED-START -->
+- [A look back at 2020](https://pawelgrzybek.com/a-look-back-at-2020/)
 - [The difference between any and unknown type in TypeScript](https://pawelgrzybek.com/the-difference-between-any-and-unknown-type-in-typescript/)
 - [Grow, shrink and reflow elements with Figma Auto Layout](https://pawelgrzybek.com/grow-shrink-and-reflow-elements-with-figma-auto-layout/)
 - [Remove all git branches except master](https://pawelgrzybek.com/remove-all-git-branches-except-master/)
 - [Client-Side Rendering, Server-Side Rendering and Static-Site Generation of Next.js applications explained](https://pawelgrzybek.com/client-side-rendering-server-side-rendering-and-static-site-generation-of-nextjs-applications-explained/)
-- [Book review: We Need To Talk About Love by Laura Mucha](https://pawelgrzybek.com/book-review-we-need-to-talk-about-love-by-laura-mucha/)
 <!-- FEED-END -->
