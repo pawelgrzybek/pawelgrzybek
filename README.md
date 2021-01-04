@@ -9,9 +9,9 @@ I am a self-taught developer looking for an opportunity to make the web a better
 ## Recent blog posts 📝
 
 <!-- FEED-START -->
+- [WebP and AVIF images on a Hugo website](https://pawelgrzybek.com/webp-and-avif-images-on-a-hugo-website/)
 - [Top picks — 2020 December](https://pawelgrzybek.com/top-picks-2020-december/)
 - [A look back at 2020](https://pawelgrzybek.com/a-look-back-at-2020/)
 - [The difference between any and unknown type in TypeScript](https://pawelgrzybek.com/the-difference-between-any-and-unknown-type-in-typescript/)
 - [Grow, shrink and reflow elements with Figma Auto Layout](https://pawelgrzybek.com/grow-shrink-and-reflow-elements-with-figma-auto-layout/)
-- [Remove all git branches except master](https://pawelgrzybek.com/remove-all-git-branches-except-master/)
 <!-- FEED-END -->
