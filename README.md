@@ -9,9 +9,9 @@ I am a self-taught developer looking for an opportunity to make the web a better
 ## Recent blog posts 📝
 
 <!-- FEED-START -->
+- [The difference between module.exports and exports in Node.js](https://pawelgrzybek.com/the-difference-between-module-exports-and-exports-in-node-js/)
 - [I won't miss you Google](https://pawelgrzybek.com/i-wont-miss-you-google/)
 - [Book review: The 7 Habits of Highly Effective People by Stephen R. Covey](https://pawelgrzybek.com/book-review-the-7-habits-of-highly-effective-people-by-stephen-r-covey/)
 - [The revealing module pattern in JavaScript explained](https://pawelgrzybek.com/the-revealing-module-pattern-in-javascript-explained/)
 - [WebP and AVIF images on a Hugo website](https://pawelgrzybek.com/webp-and-avif-images-on-a-hugo-website/)
-- [Top picks — 2020 December](https://pawelgrzybek.com/top-picks-2020-december/)
 <!-- FEED-END -->
