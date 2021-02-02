@@ -9,9 +9,9 @@ I am a self-taught developer looking for an opportunity to make the web a better
 ## Recent blog posts 📝
 
 <!-- FEED-START -->
+- [I abandoned Facebook and Instagram for a month](https://pawelgrzybek.com/i-abandoned-facebook-and-instagram-for-a-month/)
 - [What's new in ECMAScript 2021](https://pawelgrzybek.com/whats-new-in-ecmascript-2021/)
 - [Top picks — 2021 January](https://pawelgrzybek.com/top-picks-2021-january/)
 - [Book review: A Beginner's Guide to the Stock Market by Matthew R. Kratter](https://pawelgrzybek.com/book-review-a-beginners-guide-to-the-stock-market-by-matthew-r-kratter/)
 - [Book review: Digital Minimalism by Cal Newport](https://pawelgrzybek.com/book-review-digital-minimalism-by-cal-newport/)
-- [The difference between module.exports and exports in Node.js](https://pawelgrzybek.com/the-difference-between-module-exports-and-exports-in-node-js/)
 <!-- FEED-END -->
