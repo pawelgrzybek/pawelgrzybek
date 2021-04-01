@@ -9,9 +9,9 @@ I am a self-taught developer looking for an opportunity to make the web a better
 ## Recent blog posts 📝
 
 <!-- FEED-START -->
+- [From Express to Fastify in Node.js](https://pawelgrzybek.com/from-express-to-fastify-in-node-js/)
 - [Top picks — 2021 March](https://pawelgrzybek.com/top-picks-2021-march/)
 - [Visual Studio Code project manager using Alfred workflow](https://pawelgrzybek.com/visual-studio-code-project-manager-using-alfred-workflow/)
 - [Book review: A Brief History of Time by Stephen Hawking](https://pawelgrzybek.com/book-review-a-brief-history-of-time-by-stephen-hawking/)
 - [Top picks — 2021 February](https://pawelgrzybek.com/top-picks-2021-february/)
-- [Bye-bye, Disqus! I built my commenting system using AWS serverless stack and Netlify build hooks!](https://pawelgrzybek.com/bye-bye-disqus-i-built-my-commenting-system-using-aws-serverless-stack-and-netlify-build-hooks/)
 <!-- FEED-END -->
