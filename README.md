@@ -9,9 +9,9 @@ I am a self-taught developer looking for an opportunity to make the web a better
 ## Recent blog posts 📝
 
 <!-- FEED-START -->
+- [Top picks — 2021 April](https://pawelgrzybek.com/top-picks-2021-april/)
 - [Book review: Feel Great, Lose Weight by Dr Rangan Chatterjee](https://pawelgrzybek.com/book-review-feel-great-lose-weight-by-dr-rangan-chatterjee/)
 - [Book review: Dare to Lead by Brené Brown](https://pawelgrzybek.com/book-review-dare-to-lead-by-brene-brown/)
 - [From Express to Fastify in Node.js](https://pawelgrzybek.com/from-express-to-fastify-in-node-js/)
 - [Top picks — 2021 March](https://pawelgrzybek.com/top-picks-2021-march/)
-- [Visual Studio Code project manager using Alfred workflow](https://pawelgrzybek.com/visual-studio-code-project-manager-using-alfred-workflow/)
 <!-- FEED-END -->
