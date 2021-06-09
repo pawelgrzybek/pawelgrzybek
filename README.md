@@ -9,9 +9,9 @@ I am a self-taught developer looking for an opportunity to make the web a better
 ## Recent blog posts 📝
 
 <!-- FEED-START -->
+- [Autostart tmux on Alacritty launch](https://pawelgrzybek.com/autostart-tmux-on-alacritty-launch/)
 - [Top picks — 2021 May](https://pawelgrzybek.com/top-picks-2021-may/)
 - [I built a thing - JAMstack commenting system using AWS CDK, API Gateway, Lambda and DynamoDB](https://pawelgrzybek.com/i-built-a-thing-jamstack-commenting-system-using-aws-cdk-api-gateway-lambda-and-dynamodb/)
 - [I built a thing - an Alfred workflow for CoinMarketCap conversions](https://pawelgrzybek.com/i-built-a-thing-an-alfred-workflow-for-coinmarketcap-conversions/)
 - [All you need to know to move from CommonJS to ECMAScript Modules (ESM) in Node.js](https://pawelgrzybek.com/all-you-need-to-know-to-move-from-commonjs-to-ecmascript-modules-esm-in-node-js/)
-- [Top picks — 2021 April](https://pawelgrzybek.com/top-picks-2021-april/)
 <!-- FEED-END -->
