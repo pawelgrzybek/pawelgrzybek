@@ -9,9 +9,9 @@ I am a self-taught developer looking for an opportunity to make the web a better
 ## Recent blog posts 📝
 
 <!-- FEED-START -->
+- [Algorithms to Live By by Brian Christian and Tom Griffiths](https://pawelgrzybek.com/algorithms-to-live-by-by-brian-christian-and-tom-griffiths/)
 - [My favourite podcasts 2021 edition](https://pawelgrzybek.com/my-favourite-podcasts-2021-edition/)
 - [CSS Container Queries — a revolution for responsive web design](https://pawelgrzybek.com/css-container-queries-a-revolution-for-responsive-web-design/)
 - [Autostart tmux on Alacritty launch](https://pawelgrzybek.com/autostart-tmux-on-alacritty-launch/)
 - [Top picks — 2021 May](https://pawelgrzybek.com/top-picks-2021-may/)
-- [I built a thing - JAMstack commenting system using AWS CDK, API Gateway, Lambda and DynamoDB](https://pawelgrzybek.com/i-built-a-thing-jamstack-commenting-system-using-aws-cdk-api-gateway-lambda-and-dynamodb/)
 <!-- FEED-END -->
