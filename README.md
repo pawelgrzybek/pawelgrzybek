@@ -9,9 +9,9 @@ I am a self-taught developer looking for an opportunity to make the web a better
 ## Recent blog posts 📝
 
 <!-- FEED-START -->
+- [Book review: The Pragmatic Programmer by David Thomas and Andrew Hunt](https://pawelgrzybek.com/book-review-the-pragmatic-programmer-by-david-thomas-and-andrew-hunt/)
 - [Top picks — 2021 June](https://pawelgrzybek.com/top-picks-2021-june/)
-- [Algorithms to Live By by Brian Christian and Tom Griffiths](https://pawelgrzybek.com/algorithms-to-live-by-by-brian-christian-and-tom-griffiths/)
+- [Book review: Algorithms to Live By by Brian Christian and Tom Griffiths](https://pawelgrzybek.com/book-review-algorithms-to-live-by-by-brian-christian-and-tom-griffiths/)
 - [My favourite podcasts 2021 edition](https://pawelgrzybek.com/my-favourite-podcasts-2021-edition/)
 - [CSS Container Queries — a revolution for responsive web design](https://pawelgrzybek.com/css-container-queries-a-revolution-for-responsive-web-design/)
-- [Autostart tmux on Alacritty launch](https://pawelgrzybek.com/autostart-tmux-on-alacritty-launch/)
 <!-- FEED-END -->
