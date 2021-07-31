@@ -9,9 +9,9 @@ I am a self-taught developer looking for an opportunity to make the web a better
 ## Recent blog posts 📝
 
 <!-- FEED-START -->
+- [Top picks — 2021 July](https://pawelgrzybek.com/top-picks-2021-july/)
 - [Book review: Factfulness by Hans Rosling, Ola Rosling and Anna Rosling Rönnlund](https://pawelgrzybek.com/book-review-factfulness-by-hans-rosling-ola-rosling-and-anna-rosling-r%C3%B6nnlund/)
 - [Book review: Anything You Want by Derek Sivers](https://pawelgrzybek.com/book-review-anything-you-want-by-derek-sivers/)
 - [Book review: The Pragmatic Programmer by David Thomas and Andrew Hunt](https://pawelgrzybek.com/book-review-the-pragmatic-programmer-by-david-thomas-and-andrew-hunt/)
 - [Top picks — 2021 June](https://pawelgrzybek.com/top-picks-2021-june/)
-- [Book review: Algorithms to Live By by Brian Christian and Tom Griffiths](https://pawelgrzybek.com/book-review-algorithms-to-live-by-by-brian-christian-and-tom-griffiths/)
 <!-- FEED-END -->
