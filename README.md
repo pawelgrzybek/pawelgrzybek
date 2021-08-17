@@ -9,9 +9,9 @@ I am a self-taught developer looking for an opportunity to make the web a better
 ## Recent blog posts 📝
 
 <!-- FEED-START -->
+- [Alfred workflows that I can't live without](https://pawelgrzybek.com/alfred-workflows-that-i-cant-live-without/)
 - [Deno, a breath of fresh air for the server-side JavaScript](https://pawelgrzybek.com/deno-a-breath-of-fresh-air-for-the-server-side-javascript/)
 - [Do you know what to use the @ sign for something other than email addresses and Twitter handles? I do!](https://pawelgrzybek.com/do-you-know-what-to-use-the-at-sign-for-something-other-than-email-addresses-and-twitter-handles-i-do/)
 - [Top picks — 2021 July](https://pawelgrzybek.com/top-picks-2021-july/)
 - [Book review: Factfulness by Hans Rosling, Ola Rosling and Anna Rosling Rönnlund](https://pawelgrzybek.com/book-review-factfulness-by-hans-rosling-ola-rosling-and-anna-rosling-r%C3%B6nnlund/)
-- [Book review: Anything You Want by Derek Sivers](https://pawelgrzybek.com/book-review-anything-you-want-by-derek-sivers/)
 <!-- FEED-END -->
