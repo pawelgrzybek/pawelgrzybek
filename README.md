@@ -9,9 +9,9 @@ I am a self-taught developer looking for an opportunity to make the web a better
 ## Recent blog posts 📝
 
 <!-- FEED-START -->
+- [I built a thing - price monitor using AWS CDK, Lambda, DynamoDB and SES](https://pawelgrzybek.com/i-built-a-thing-price-monitor-using-aws-cdk-lambda-dynamodb-and-ses/)
 - [The difference between AWS Secrets Manager and AWS Systems Manager Parameter Store](https://pawelgrzybek.com/the-difference-between-aws-secrets-manager-and-aws-systems-manager-parameter-store/)
 - [Top picks — 2021 September](https://pawelgrzybek.com/top-picks-2021-september/)
 - [Vertical vs horizontal scalability in software development](https://pawelgrzybek.com/vertical-vs-horizontal-scalability-in-software-development/)
 - [Book review: On Writing Well by William Zinsser](https://pawelgrzybek.com/book-review-on-writing-well-by-william-zinsser/)
-- [Book review: Elon Musk by Ashlee Vance](https://pawelgrzybek.com/book-review-elon-musk-by-ashlee-vance/)
 <!-- FEED-END -->
