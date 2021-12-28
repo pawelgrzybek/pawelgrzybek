@@ -9,9 +9,9 @@ I am a self-taught developer looking for an opportunity to make the web a better
 ## Recent blog posts 📝
 
 <!-- FEED-START -->
+- [A look back at 2021](https://pawelgrzybek.com/a-look-back-at-2021/)
 - [Top picks — 2021 November](https://pawelgrzybek.com/top-picks-2021-november/)
 - [Thanks for everything Mindera! Hi Heydoc!](https://pawelgrzybek.com/thanks-for-everything-mindera-hi-heydoc/)
 - [Continue, Step Over, Step Into and Step Out actions in Visual Studio Code debugger explained](https://pawelgrzybek.com/continue-step-over-step-into-and-step-out-actions-in-visual-studio-code-debugger-explained/)
 - [Top picks — 2021 October](https://pawelgrzybek.com/top-picks-2021-october/)
-- [Propagate AWS X-Ray tracing header to the Lambda from SQS, SNS and DynamoDB stream](https://pawelgrzybek.com/propagate-aws-x-ray-tracing-header-to-the-lambda-from-sqs-sns-and-dynamodb-stream/)
 <!-- FEED-END -->
