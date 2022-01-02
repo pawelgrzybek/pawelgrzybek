@@ -9,9 +9,9 @@ I am a self-taught developer looking for an opportunity to make the web a better
 ## Recent blog posts 📝
 
 <!-- FEED-START -->
+- [Remove unused brew dependencies and delete outdated downloads](https://pawelgrzybek.com/remove-unused-brew-dependencies-and-delete-outdated-downloads/)
 - [Book review: Buddhism for Busy People by David Michie](https://pawelgrzybek.com/book-review-buddhism-for-busy-people-by-david-michie/)
 - [Top picks — 2021 December](https://pawelgrzybek.com/top-picks-2021-december/)
 - [A look back at 2021](https://pawelgrzybek.com/a-look-back-at-2021/)
 - [Top picks — 2021 November](https://pawelgrzybek.com/top-picks-2021-november/)
-- [Thanks for everything Mindera! Hi Heydoc!](https://pawelgrzybek.com/thanks-for-everything-mindera-hi-heydoc/)
 <!-- FEED-END -->
