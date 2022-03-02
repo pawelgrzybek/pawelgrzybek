@@ -11,7 +11,7 @@ I am a self-taught developer looking for an opportunity to make the web a better
 <!-- FEED-START -->
 - [Top picks — 2022 February](https://pawelgrzybek.com/top-picks-2022-february/)
 - [A few methods to check if all values in the JavaScript array are the same](https://pawelgrzybek.com/a-few-methods-to-check-if-all-values-in-the-javascript-array-are-the-same/)
-- [[object Object]](https://pawelgrzybek.com/new-draft/)
 - [The difference between CSS focus and focus-visible pseudo-class](https://pawelgrzybek.com/the-difference-between-css-focus-and-focus-visible-pseudo-class/)
 - [Top picks — 2022 January](https://pawelgrzybek.com/top-picks-2022-january/)
+- [Book review: Deep Work by Cal Newport](https://pawelgrzybek.com/book-review-deep-work-by-cal-newport/)
 <!-- FEED-END -->
