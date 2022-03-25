@@ -9,9 +9,9 @@ I am a self-taught developer looking for an opportunity to make the web a better
 ## Recent blog posts 📝
 
 <!-- FEED-START -->
+- [Book review: The Effective Executive by Peter F. Drucker](https://pawelgrzybek.com/book-review-the-effective-executive-by-peter-f-drucker/)
 - [Book review: A Short History of Nearly Everything by Bill Bryson](https://pawelgrzybek.com/book-review-a-short-history-of-nearly-everything-by-bill-bryson/)
 - [Top picks — 2022 February](https://pawelgrzybek.com/top-picks-2022-february/)
 - [A few methods to check if all values in the JavaScript array are the same](https://pawelgrzybek.com/a-few-methods-to-check-if-all-values-in-the-javascript-array-are-the-same/)
 - [The difference between CSS focus and focus-visible pseudo-class](https://pawelgrzybek.com/the-difference-between-css-focus-and-focus-visible-pseudo-class/)
-- [Top picks — 2022 January](https://pawelgrzybek.com/top-picks-2022-january/)
 <!-- FEED-END -->
