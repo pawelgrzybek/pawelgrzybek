@@ -9,9 +9,9 @@ I am a self-taught developer looking for an opportunity to make the web a better
 ## Recent blog posts 📝
 
 <!-- FEED-START -->
+- [Make the TypeScript interface partially optional/required](https://pawelgrzybek.com/make-the-typescript-interface-partially-optional-required/)
 - [Top picks — 2022 March](https://pawelgrzybek.com/top-picks-2022-march/)
 - [Book review: The Compound Effect by Darren Hardy](https://pawelgrzybek.com/book-review-the-compound-effect-by-darren-hardy/)
 - [Book review: The Effective Executive by Peter F. Drucker](https://pawelgrzybek.com/book-review-the-effective-executive-by-peter-f-drucker/)
 - [Book review: A Short History of Nearly Everything by Bill Bryson](https://pawelgrzybek.com/book-review-a-short-history-of-nearly-everything-by-bill-bryson/)
-- [Top picks — 2022 February](https://pawelgrzybek.com/top-picks-2022-february/)
 <!-- FEED-END -->
