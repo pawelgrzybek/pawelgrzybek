@@ -9,9 +9,9 @@ I am a self-taught developer looking for an opportunity to make the web a better
 ## Recent blog posts 📝
 
 <!-- FEED-START -->
+- [Lesbos](https://pawelgrzybek.com/lesbos/)
 - [Top picks — 2022 May](https://pawelgrzybek.com/top-picks-2022-may/)
 - [Hi-Fi 101: The difference between preamplifier, power amplifier, integrated amplifier and receiver](https://pawelgrzybek.com/hi-fi-101-the-difference-between-preamplifier-power-amplifier-integrated-amplifier-and-receiver/)
 - [I am so excited about Figma Tokens](https://pawelgrzybek.com/i-am-so-excited-about-figma-tokens/)
 - [Book review: The Psychology of Money by Morgan Housel](https://pawelgrzybek.com/book-review-the-psychology-of-money-by-morgan-housel/)
-- [Top picks — 2022 April](https://pawelgrzybek.com/top-picks-2022-april/)
 <!-- FEED-END -->
