@@ -1,5 +1,4 @@
 import fs from "fs";
-import fetch from "node-fetch";
 import parser from "xml2json";
 
 const FEED_URL = "https://pawelgrzybek.com/feed.xml";
