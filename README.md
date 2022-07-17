@@ -9,9 +9,9 @@ I’m Pawel Grzybek, a Software Engineer from Poland. I build Web stuff and writ
 ## Recent blog posts 📝
 
 <!-- FEED-START -->
+- [Auto setup remote branch and never again see an error about the missing upstream](https://pawelgrzybek.com/auto-setup-remote-branch-and-never-again-see-an-error-about-the-missing-upstream/)
 - [Interpolate CSS custom properties values](https://pawelgrzybek.com/interpolate-css-custom-properties-values/)
 - [Project manager for Visual Studio Code using Raycast](https://pawelgrzybek.com/project-manager-for-visual-studio-code-using-raycast/)
 - [Top picks — 2022 June](https://pawelgrzybek.com/top-picks-2022-june/)
 - [TIL — Removing DOM Event Handlers using AbortController](https://pawelgrzybek.com/til-removing-dom-event-handlers-using-abortcontroller/)
-- [TIL — Node.js 18.3 comes with command-line arguments parser](https://pawelgrzybek.com/til-node-js-18-3-comes-with-command-line-arguments-parser/)
 <!-- FEED-END -->
