@@ -9,9 +9,9 @@ I’m Pawel Grzybek, a Software Engineer from Poland. I build Web stuff and writ
 ## Recent blog posts 📝
 
 <!-- FEED-START -->
+- [I am joining Polygon](https://pawelgrzybek.com/i-am-joining-polygon/)
 - [Feel good](https://pawelgrzybek.com/feel-good/)
 - [Remove ads from your Twitter timeline with a few lines of CSS](https://pawelgrzybek.com/remove-ads-from-your-twitter-timeline-with-a-few-lines-of-css/)
 - [A simple carousel with a few lines of CSS](https://pawelgrzybek.com/a-simple-carousel-with-a-few-lines-of-css/)
 - [Top picks — 2022 July](https://pawelgrzybek.com/top-picks-2022-july/)
-- [Auto setup remote branch and never again see an error about the missing upstream](https://pawelgrzybek.com/auto-setup-remote-branch-and-never-again-see-an-error-about-the-missing-upstream/)
 <!-- FEED-END -->
