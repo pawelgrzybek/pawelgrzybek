@@ -9,9 +9,9 @@ I’m Pawel Grzybek, a Software Engineer from Poland. I build Web stuff and writ
 ## Recent blog posts 📝
 
 <!-- FEED-START -->
+- [Book review: "Creative Selection: Inside Apple's Design Process During the Golden Age of Steve Jobs" by Ken Kocienda](https://pawelgrzybek.com/book-review-creative-selection-inside-apples-design-process-during-the-golden-age-of-steve-jobs-by-ken-kocienda/)
 - [Top picks — 2022 August](https://pawelgrzybek.com/top-picks-2022-august/)
 - [I am joining Polygon](https://pawelgrzybek.com/i-am-joining-polygon/)
 - [Feel good](https://pawelgrzybek.com/feel-good/)
 - [Remove ads from your Twitter timeline with a few lines of CSS](https://pawelgrzybek.com/remove-ads-from-your-twitter-timeline-with-a-few-lines-of-css/)
-- [A simple carousel with a few lines of CSS](https://pawelgrzybek.com/a-simple-carousel-with-a-few-lines-of-css/)
 <!-- FEED-END -->
