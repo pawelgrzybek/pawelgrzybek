@@ -9,9 +9,9 @@ I’m Pawel Grzybek, a Software Engineer from Poland. I build Web stuff and writ
 ## Recent blog posts 📝
 
 <!-- FEED-START -->
+- [Five things I like/dislike #1](https://pawelgrzybek.com/five-things-i-like-dislike-1/)
 - [I'm on Mastodon](https://pawelgrzybek.com/im-on-mastodon/)
 - [Top picks — 2022 October](https://pawelgrzybek.com/top-picks-2022-october/)
 - [Working with git worktrees](https://pawelgrzybek.com/working-with-git-worktrees/)
 - [A few "how did you do it" kinda macOS tips and tricks](https://pawelgrzybek.com/a-few-how-did-you-do-it-kinda-macos-tips-and-tricks/)
-- [A few practical use cases for npm dependency queries](https://pawelgrzybek.com/a-few-practical-use-cases-for-npm-dependency-queries/)
 <!-- FEED-END -->
