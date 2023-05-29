@@ -9,9 +9,9 @@ I’m Pawel Grzybek, a Software Engineer from Poland. I build Web stuff and writ
 ## Recent blog posts 📝
 
 <!-- FEED-START -->
+- [Simple RSS, Atom and JSON feed for your blog](https://pawelgrzybek.com/simple-rss-atom-and-json-feed-for-your-blog/)
 - [Music collection page](https://pawelgrzybek.com/music-collection-page/)
 - [Vertical rhythm using CSS lh and rlh units](https://pawelgrzybek.com/vertical-rhythm-using-css-lh-and-rlh-units/)
 - [I'm on Bluesky](https://pawelgrzybek.com/im-on-bluesky/)
 - [Sicily 2023](https://pawelgrzybek.com/sicily-2023/)
-- [Top picks — 2023 April](https://pawelgrzybek.com/top-picks-2023-april/)
 <!-- FEED-END -->
