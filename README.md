@@ -9,9 +9,9 @@ I’m Pawel Grzybek, a Software Engineer from Poland. I build Web stuff and writ
 ## Recent blog posts 📝
 
 <!-- FEED-START -->
+- [Node.js with native support for .env files — you may not need dotenv anymore](https://pawelgrzybek.com/node-js-with-native-support-for-env-files-you-may-not-need-dotenv-anymore/)
 - [Top picks — 2023 August](https://pawelgrzybek.com/top-picks-2023-august/)
 - [CSS valid/invalid vs user-valid/user-invalid pseudo-classes](https://pawelgrzybek.com/css-valid-invalid-vs-user-valid-user-invalid-pseudo-classes/)
 - [This is this — type predicates and assertion functions in TypeScript classes](https://pawelgrzybek.com/this-is-this-type-predicates-and-assertion-functions-in-typescript-classes/)
 - [Five things I like/dislike #7](https://pawelgrzybek.com/five-things-i-like-dislike-7/)
-- [Top picks — 2023 July](https://pawelgrzybek.com/top-picks-2023-july/)
 <!-- FEED-END -->
