@@ -9,9 +9,9 @@ I’m Pawel Grzybek, a Software Engineer from Poland. I build Web stuff and writ
 ## Recent blog posts 📝
 
 <!-- FEED-START -->
+- [Top picks — 2023 September](https://pawelgrzybek.com/top-picks-2023-september/)
 - [Five things I like/dislike #8](https://pawelgrzybek.com/five-things-i-like-dislike-8/)
 - [Book review: Why We Sleep by Matthew Walker](https://pawelgrzybek.com/book-review-why-we-sleep-by-matthew-walker/)
 - [List resources across all regions using the AWS CLI](https://pawelgrzybek.com/list-resources-in-all-regions-using-the-aws-cli/)
 - [Node.js with native support for .env files — you may not need dotenv anymore](https://pawelgrzybek.com/node-js-with-native-support-for-env-files-you-may-not-need-dotenv-anymore/)
-- [Top picks — 2023 August](https://pawelgrzybek.com/top-picks-2023-august/)
 <!-- FEED-END -->
