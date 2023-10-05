@@ -10,8 +10,8 @@ I’m Pawel Grzybek, a Software Engineer from Poland. I build Web stuff and writ
 
 <!-- FEED-START -->
 - [Archive](https://pawelgrzybek.com/posts/)
+- [Migration from single content files to Hugo page bundles](https://pawelgrzybek.com/migration-from-single-content-files-to-hugo-page-bundles/)
 - [Top picks — 2023 September](https://pawelgrzybek.com/top-picks-2023-september/)
 - [Five things I like/dislike #8](https://pawelgrzybek.com/five-things-i-like-dislike-8/)
 - [Book review: Why We Sleep by Matthew Walker](https://pawelgrzybek.com/book-review-why-we-sleep-by-matthew-walker/)
-- [List resources across all regions using the AWS CLI](https://pawelgrzybek.com/list-resources-in-all-regions-using-the-aws-cli/)
 <!-- FEED-END -->
