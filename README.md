@@ -10,8 +10,8 @@ I’m Pawel Grzybek, a Software Engineer from Poland. I build Web stuff and writ
 
 <!-- FEED-START -->
 - [Archive](https://pawelgrzybek.com/posts/)
+- [Top picks — 2023 October](https://pawelgrzybek.com/top-picks-2023-october/)
 - [Belkin Soundform Connect enabled Apple AirPlay on my vintage stereo system](https://pawelgrzybek.com/belkin-soundform-connect-enabled-apple-airplay-on-my-vintage-stereo-system/)
 - [ForkLift 4 — ready or not](https://pawelgrzybek.com/forklift-4-ready-or-not/)
 - [Migration from single content files to Hugo page bundles](https://pawelgrzybek.com/migration-from-single-content-files-to-hugo-page-bundles/)
-- [Top picks — 2023 September](https://pawelgrzybek.com/top-picks-2023-september/)
 <!-- FEED-END -->
