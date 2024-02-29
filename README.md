@@ -9,9 +9,9 @@ I'm a software developer from Poland living in Northampton, UK. I'm a web standa
 ## Recent blog posts 📝
 
 <!-- FEED-START -->
+- [Top picks — 2024 February](https://pawelgrzybek.com/top-picks-2024-february/)
 - [Better git diff with delta](https://pawelgrzybek.com/better-git-diff-with-delta/)
 - [Infer type of a function argument as const in TypeScript](https://pawelgrzybek.com/infer-type-of-a-function-argument-as-const-in-typescript/)
 - [Book review: "The Creative Act: A Way of Being" by Rick Rubin](https://pawelgrzybek.com/book-review-the-creative-act-a-way-of-being-by-rick-rubin/)
 - [Top picks — 2024 January](https://pawelgrzybek.com/top-picks-2024-january/)
-- [Stop resolving the same merge conflict multiple times during merge or rebase using git rerere](https://pawelgrzybek.com/stop-resolving-the-same-merge-conflict-multiple-times-during-merge-or-rebase-using-git-rerere/)
 <!-- FEED-END -->
