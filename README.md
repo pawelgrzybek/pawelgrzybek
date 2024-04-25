@@ -9,9 +9,9 @@ I'm a software developer from Poland living in Northampton, UK. I'm a web standa
 ## Recent blog posts 📝
 
 <!-- FEED-START -->
+- [Five things I like/dislike #9](https://pawelgrzybek.com/five-things-i-like-dislike-9/)
 - [Promise.try to improve error handling and sync/async interoperability](https://pawelgrzybek.com/promise-try-to-improve-error-handling-and-sync-async-interoperability/)
 - [Light/dark mode simplified by the CSS light-dark() function](https://pawelgrzybek.com/light-dark-mode-simplified-by-the-css-light-dark-function/)
 - [Top picks — 2024 March](https://pawelgrzybek.com/top-picks-2024-march/)
 - [I am joining Avant Arte](https://pawelgrzybek.com/i-am-joining-avant-arte/)
-- [Sorting and filtering in Helix](https://pawelgrzybek.com/sorting-and-filtering-in-helix/)
 <!-- FEED-END -->
