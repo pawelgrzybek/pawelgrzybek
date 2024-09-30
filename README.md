@@ -9,9 +9,9 @@ I'm a software developer from Poland living in Northampton, UK. I'm a web standa
 ## Recent blog posts 📝
 
 <!-- FEED-START -->
+- [Top picks — 2024 September](https://pawelgrzybek.com/top-picks-2024-september/)
 - [From Grammarly to Raycast AI](https://pawelgrzybek.com/from-grammarly-to-raycast-ai/)
 - [Lesson learned — dataset keys are camel-cased](https://pawelgrzybek.com/lesson-learned-dataset-keys-are-camel-cased/)
 - [Combating mental AI fog](https://pawelgrzybek.com/combating-mental-ai-fog/)
 - [Top picks — 2024 August](https://pawelgrzybek.com/top-picks-2024-august/)
-- [Files management with Yazi](https://pawelgrzybek.com/files-management-with-yazi/)
 <!-- FEED-END -->
