@@ -9,9 +9,9 @@ I'm a software developer from Poland living in Northampton, UK. I'm a web standa
 ## Recent blog posts 📝
 
 <!-- FEED-START -->
+- [Decade of blogging](https://pawelgrzybek.com/decade-of-blogging/)
 - [Vi keybindings in fish shell](https://pawelgrzybek.com/vi-keybindings-in-fish-shell/)
 - [Top picks — 2025 February](https://pawelgrzybek.com/top-picks-2025-february/)
 - [Highlight yanked text in Neovim](https://pawelgrzybek.com/highlight-yanked-text-in-neovim/)
 - [Neovim file explorers](https://pawelgrzybek.com/neovim-file-explorers/)
-- [Top picks — 2025 January](https://pawelgrzybek.com/top-picks-2025-january/)
 <!-- FEED-END -->
