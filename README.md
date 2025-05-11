@@ -9,9 +9,9 @@ I'm a software developer from Poland living in Northampton, UK. I'm a web standa
 ## Recent blog posts 📝
 
 <!-- FEED-START -->
+- [Five things I like/dislike #11](https://pawelgrzybek.com/five-things-i-like-dislike-11/)
 - [Top picks — 2025 April](https://pawelgrzybek.com/top-picks-2025-april/)
 - [Reconcile two conflicting LSP servers in Neovim 0.11+](https://pawelgrzybek.com/reconcile-two-conflicting-lsp-servers-in-neovim-0-11/)
 - [Control Pi-hole 6 using Apple Shortcuts](https://pawelgrzybek.com/control-pi-hole-6-using-apple-shortcuts/)
 - [Top picks — 2025 March](https://pawelgrzybek.com/top-picks-2025-march/)
-- [Decade of blogging](https://pawelgrzybek.com/decade-of-blogging/)
 <!-- FEED-END -->
