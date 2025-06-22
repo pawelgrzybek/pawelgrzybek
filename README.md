@@ -9,9 +9,9 @@ I'm a software developer from Poland living in Northampton, UK. I'm a web standa
 ## Recent blog posts 📝
 
 <!-- FEED-START -->
+- [Book review: "Character Limit: How Elon Musk Destroyed Twitter" by Kate Conger and Ryan Mac](https://pawelgrzybek.com/book-review-character-limit-how-elon-musk-destroyed-twitter-by-kate-conger-and-ryan-mac/)
 - [Top picks — 2025 May](https://pawelgrzybek.com/top-picks-2025-may/)
 - [A month with the ZSA Voyager split keyboard](https://pawelgrzybek.com/a-month-with-the-zsa-voyager-split-keyboard/)
 - [Five things I like/dislike #11](https://pawelgrzybek.com/five-things-i-like-dislike-11/)
 - [Top picks — 2025 April](https://pawelgrzybek.com/top-picks-2025-april/)
-- [Reconcile two conflicting LSP servers in Neovim 0.11+](https://pawelgrzybek.com/reconcile-two-conflicting-lsp-servers-in-neovim-0-11/)
 <!-- FEED-END -->
