@@ -9,9 +9,9 @@ I'm a software developer from Poland living in Northampton, UK. I'm a web standa
 ## Recent blog posts 📝
 
 <!-- FEED-START -->
+- [Five things I like/dislike #12](https://pawelgrzybek.com/five-things-i-like-dislike-12/)
 - [A week with the ZSA Navigator](https://pawelgrzybek.com/a-week-with-the-zsa-navigator/)
 - [Top picks — 2025 August](https://pawelgrzybek.com/top-picks-2025-august/)
 - [Top picks — 2025 July](https://pawelgrzybek.com/top-picks-2025-july/)
 - [Redo the undo](https://pawelgrzybek.com/redo-the-undo/)
-- [What's new in ECMAScript 2025](https://pawelgrzybek.com/whats-new-in-ecmascript-2025/)
 <!-- FEED-END -->
