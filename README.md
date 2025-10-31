@@ -9,9 +9,9 @@ I'm a software developer from Poland living in Northampton, UK. I'm a web standa
 ## Recent blog posts 📝
 
 <!-- FEED-START -->
+- [Top picks — 2025 October](https://pawelgrzybek.com/top-picks-2025-october/)
 - [Make Vim macros fun to work with](https://pawelgrzybek.com/make-vim-macros-fun-to-work-with/)
 - [The CSS Reset, again](https://pawelgrzybek.com/the-css-reset-again/)
 - [Neovim incremental selection using Tree-sitter](https://pawelgrzybek.com/nvim-incremental-selection/)
 - [Top picks — 2025 September](https://pawelgrzybek.com/top-picks-2025-september/)
-- [Five things I like/dislike #12](https://pawelgrzybek.com/five-things-i-like-dislike-12/)
 <!-- FEED-END -->
