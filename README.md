@@ -9,9 +9,9 @@ I'm a software developer from Poland living in Northampton, UK. I'm a web standa
 ## Recent blog posts 📝
 
 <!-- FEED-START -->
+- [Top picks — 2025 December](https://pawelgrzybek.com/top-picks-2025-december/)
 - [Sri Lanka 2025](https://pawelgrzybek.com/sri-lanka-2025/)
 - [Look Back at 2025](https://pawelgrzybek.com/a-look-back-at-2025/)
 - [Top picks — 2025 Novermber](https://pawelgrzybek.com/top-picks-2025-novermber/)
 - [Graceful shutdown in Go](https://pawelgrzybek.com/graceful-shutdown-in-go/)
-- [Negating compound boolean expressions (De Morgan's Laws)](https://pawelgrzybek.com/negating-compound-boolean-expressions-de-morgans-laws/)
 <!-- FEED-END -->
