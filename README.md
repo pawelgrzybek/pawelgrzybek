@@ -9,9 +9,9 @@ I'm a software developer from Poland living in Northampton, UK. I'm a web standa
 ## Recent blog posts 📝
 
 <!-- FEED-START -->
+- [Top picks — 2026 February](https://pawelgrzybek.com/top-picks-2026-february/)
 - [No temp variables needed for pointers in Go 1.26](https://pawelgrzybek.com/no-temp-variables-needed-for-pointers-in-go-1-26/)
 - [Deploy Hugo site to Cloudflare Workers](https://pawelgrzybek.com/deploy-hugo-site-to-cloudflare-workers/)
 - [Top picks — 2026 January](https://pawelgrzybek.com/top-picks-2026-january/)
 - [More invoker commands, and more reasons not to use JavaScript please](https://pawelgrzybek.com/more-invoker-commands-and-more-reasons-not-to-use-javascript-please/)
-- [Top picks — 2025 December](https://pawelgrzybek.com/top-picks-2025-december/)
 <!-- FEED-END -->
