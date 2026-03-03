@@ -9,7 +9,6 @@ I'm a software developer from Poland living in Northampton, UK. I'm a web standa
 ## Recent blog posts 📝
 
 <!-- FEED-START -->
-
 - [From 1Password to Apple Passwords](https://pawelgrzybek.com/from-1password-to-apple-passwords/)
 - [Top picks — 2026 February](https://pawelgrzybek.com/top-picks-2026-february/)
 - [No temp variables needed for pointers in Go 1.26](https://pawelgrzybek.com/no-temp-variables-needed-for-pointers-in-go-1-26/)
