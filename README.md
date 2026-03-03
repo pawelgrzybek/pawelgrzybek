@@ -6,16 +6,10 @@
 
 I'm a software developer from Poland living in Northampton, UK. I'm a web standards enthusiast, accessibility advocate, and simplicity guardian. The guy behind the [Northamptonshire Dev Club meetup](https://nn1.dev/). After-hours hip hop head, funky [records collector](https://pawelgrzybek.com/music), and photographer.
 
-## Test
-
-{% include_relative test.html %}
-
-<style>{% include_relative test.css %}</style>
-<script>{% include_relative test.js %}</script>
-
 ## Recent blog posts 📝
 
 <!-- FEED-START -->
+
 - [From 1Password to Apple Passwords](https://pawelgrzybek.com/from-1password-to-apple-passwords/)
 - [Top picks — 2026 February](https://pawelgrzybek.com/top-picks-2026-february/)
 - [No temp variables needed for pointers in Go 1.26](https://pawelgrzybek.com/no-temp-variables-needed-for-pointers-in-go-1-26/)
