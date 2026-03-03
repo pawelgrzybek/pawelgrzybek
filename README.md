@@ -6,6 +6,13 @@
 
 I'm a software developer from Poland living in Northampton, UK. I'm a web standards enthusiast, accessibility advocate, and simplicity guardian. The guy behind the [Northamptonshire Dev Club meetup](https://nn1.dev/). After-hours hip hop head, funky [records collector](https://pawelgrzybek.com/music), and photographer.
 
+## Test
+
+{% include_relative test.html %}
+
+<style>{% include_relative test.css %}</style>
+<script>{% include_relative test.js %}</script>
+
 ## Recent blog posts 📝
 
 <!-- FEED-START -->
