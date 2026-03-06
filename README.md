@@ -9,9 +9,9 @@ I'm a software developer from Poland living in Northampton, UK. I'm a web standa
 ## Recent blog posts 📝
 
 <!-- FEED-START -->
+- [Book review: "Tools of Titans" by Tim Ferriss](https://pawelgrzybek.com/book-review-tools-of-titans-by-tim-ferriss/)
 - [My defaults 2026](https://pawelgrzybek.com/my-defaults-2026/)
 - [From 1Password to Apple Passwords](https://pawelgrzybek.com/from-1password-to-apple-passwords/)
 - [Top picks — 2026 February](https://pawelgrzybek.com/top-picks-2026-february/)
 - [No temp variables needed for pointers in Go 1.26](https://pawelgrzybek.com/no-temp-variables-needed-for-pointers-in-go-1-26/)
-- [Deploy Hugo site to Cloudflare Workers](https://pawelgrzybek.com/deploy-hugo-site-to-cloudflare-workers/)
 <!-- FEED-END -->
