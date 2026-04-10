@@ -9,9 +9,9 @@ I'm a software developer from Poland living in Northampton, UK. I'm a web standa
 ## Recent blog posts 📝
 
 <!-- FEED-START -->
+- [Book review: "This Is for Everyone" by Tim Berners-Lee](https://pawelgrzybek.com/book-review-this-is-for-everyone-by-tim-berners-lee/)
 - [Vim tip: more intuitive CTRL-A (adding) and CTRL-X (subtracting)](https://pawelgrzybek.com/vim-tip-more-intuitive-ctrl-a-adding-and-ctrl-x-subtracting/)
 - [My read/watch/listen later workflow](https://pawelgrzybek.com/my-read-watch-listen-later-workflow/)
 - [Top picks — 2026 March](https://pawelgrzybek.com/top-picks-2026-march/)
 - [SVG favicons that respect theme preference](https://pawelgrzybek.com/svg-favicons-that-respect-theme-preference/)
-- [Book review: "Tools of Titans" by Tim Ferriss](https://pawelgrzybek.com/book-review-tools-of-titans-by-tim-ferriss/)
 <!-- FEED-END -->
