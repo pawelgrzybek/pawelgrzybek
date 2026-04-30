@@ -9,9 +9,9 @@ I'm a software developer from Poland living in Northampton, UK. I'm a web standa
 ## Recent blog posts 📝
 
 <!-- FEED-START -->
+- [Top picks — 2026 April](https://pawelgrzybek.com/top-picks-2026-april/)
 - [Difftastic — my new favourite diff viewer](https://pawelgrzybek.com/difftastic-my-new-favourite-diff-viewer/)
 - [Vim tip: substitute pattern delimiter doesn't need to be a slash](https://pawelgrzybek.com/vim-tip-substitute-pattern-delimiter-doesnt-need-to-be-a-slash/)
 - [Repository pattern in Go service](https://pawelgrzybek.com/repository-pattern-in-go-service/)
 - [Book review: "This Is for Everyone" by Tim Berners-Lee](https://pawelgrzybek.com/book-review-this-is-for-everyone-by-tim-berners-lee/)
-- [Vim tip: more intuitive CTRL-A (adding) and CTRL-X (subtracting)](https://pawelgrzybek.com/vim-tip-more-intuitive-ctrl-a-adding-and-ctrl-x-subtracting/)
 <!-- FEED-END -->
