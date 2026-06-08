@@ -9,9 +9,9 @@ I'm a software developer from Poland living in Northampton, UK. I'm a web standa
 ## Recent blog posts 📝
 
 <!-- FEED-START -->
+- [Fuck|Thank you](https://pawelgrzybek.com/fuck-thank-you/)
 - [Top picks — 2026 May](https://pawelgrzybek.com/top-picks-2026-may/)
 - [Top picks — 2026 April](https://pawelgrzybek.com/top-picks-2026-april/)
 - [Difftastic — my new favourite diff viewer](https://pawelgrzybek.com/difftastic-my-new-favourite-diff-viewer/)
 - [Vim tip: substitute pattern delimiter doesn't need to be a slash](https://pawelgrzybek.com/vim-tip-substitute-pattern-delimiter-doesnt-need-to-be-a-slash/)
-- [Repository pattern in Go service](https://pawelgrzybek.com/repository-pattern-in-go-service/)
 <!-- FEED-END -->
