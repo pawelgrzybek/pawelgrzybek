@@ -9,9 +9,9 @@ I'm a software developer from Poland living in Northampton, UK. I'm a web standa
 ## Recent blog posts 📝
 
 <!-- FEED-START -->
+- [Thermal printing camera for £18](https://pawelgrzybek.com/thermal-printing-camera-for-18/)
 - [Masonry aka waterfall aka collapse aka pack aka Pinterest-style layout — display grid-lanes cheatsheet for my future self](https://pawelgrzybek.com/masonry-aka-waterfall-aka-collapse-aka-pack-aka-pinterest-style-layout-display-grid-lanes-cheatsheet-for-my-future-self/)
 - [My blog is not on the AT Protocol, standard.site is not for me](https://pawelgrzybek.com/my-blog-is-not-on-the-at-protocol-standard-site-is-not-for-me/)
 - [Top picks — 2026 June](https://pawelgrzybek.com/top-picks-2026-june/)
 - [Fuck|Thank you](https://pawelgrzybek.com/fuck-thank-you/)
-- [Top picks — 2026 May](https://pawelgrzybek.com/top-picks-2026-may/)
 <!-- FEED-END -->
