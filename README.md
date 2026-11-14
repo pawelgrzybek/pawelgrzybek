@@ -9,9 +9,9 @@ I'm a software developer from Poland living in Northampton, UK. I'm a web standa
 ## Recent blog posts 📝
 
 <!-- FEED-START -->
+- [Seamless generation of WebP and AVIF images in Hugo](https://pawelgrzybek.com/seamless-generation-of-webp-and-avif-images-in-hugo/)
 - [Safari bug report: Vanishing sticky elements on an overscrolled document](https://pawelgrzybek.com/safari-bug-report-vanishing-sticky-elements-on-an-overscrolled-document/)
 - [Top picks — 2026 October](https://pawelgrzybek.com/top-picks-2026-october/)
 - [My Interop 2027 picks](https://pawelgrzybek.com/my-interop-2027-picks/)
 - [Top picks — 2026 September](https://pawelgrzybek.com/top-picks-2026-september/)
-- [The story of a crappy NN1 Dev Club logo](https://pawelgrzybek.com/the-story-of-a-crappy-nn1-dev-club-logo/)
 <!-- FEED-END -->
